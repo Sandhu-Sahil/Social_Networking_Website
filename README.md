@@ -5,7 +5,7 @@
 ## <mark style="background-color: white; color: black;"><b>Video Discription:</b></mark>  <https://youtu.be/hbh2ts66Ifg>
 
 ## <mark style="background-color: white; color: black;"><b>Scores:</b></mark>
-too be released soon....
-![Scores]()
+
+![Scores](https://github.com/Sandhu-Sahil/Social_Networking_Website/blob/master/scores_released_network.jpg)
 
 ## <mark style="background-color: white; color: black;"><b>Other Projects:<a href="https://github.com/Sandhu-Sahil/Project_List_Professional_Web_Programming_Harvard_University"> List of Projects</a></b></mark>
